@@ -1,0 +1,9 @@
+2024-04-06 11:21:48.479 +02:00 [INF] Captcha is succesvol gevalideerd
+2024-04-06 11:48:43.408 +02:00 [INF] Captcha is succesvol gevalideerd
+2024-04-06 12:14:16.621 +02:00 [INF] Captcha is succesvol gevalideerd
+2024-04-06 12:19:07.426 +02:00 [ERR] 2FA is aangezet voor gebruiker.
+2024-04-06 12:19:17.715 +02:00 [INF] Gebruiker is ingelogd.
+2024-04-06 12:19:17.770 +02:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-04-06 12:19:17.861 +02:00 [INF] Team gegevens opgevraagd.
+2024-04-06 12:19:21.714 +02:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-04-06 12:19:21.731 +02:00 [INF] Team gegevens opgevraagd.

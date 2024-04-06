@@ -1,0 +1,245 @@
+2024-03-26 09:14:43.392 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:14:43.487 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:14:43.590 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:32:42.326 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 09:43:14.284 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:43:14.325 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:43:14.429 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:47:41.383 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:47:41.395 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:47:41.415 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:48:13.378 +01:00 [ERR] Gebruiker bestaat al.
+2024-03-26 09:48:19.515 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:48:20.907 +01:00 [ERR] Poging tot inloggen mislukt.
+2024-03-26 09:48:23.255 +01:00 [ERR] Gebruiker bestaat al.
+2024-03-26 09:49:35.211 +01:00 [ERR] Poging tot inloggen mislukt.
+2024-03-26 09:49:44.181 +01:00 [INF] Gebruiker is aangemaakt.
+2024-03-26 09:49:46.520 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:49:47.773 +01:00 [ERR] Poging tot inloggen mislukt.
+2024-03-26 09:49:50.144 +01:00 [ERR] Gebruiker bestaat al.
+2024-03-26 09:50:27.841 +01:00 [INF] Gebruiker is aangemaakt.
+2024-03-26 09:50:31.482 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:50:31.503 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:50:31.566 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:50:36.915 +01:00 [ERR] Gebruiker is uitgelogd
+2024-03-26 09:50:43.878 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:50:43.885 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:50:43.900 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:50:49.813 +01:00 [INF] URL voor QRcode is gegenereerd.
+2024-03-26 09:51:11.662 +01:00 [INF] 2FA is aangezet voor deze gebruiker.
+2024-03-26 09:51:11.669 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:51:11.678 +01:00 [ERR] 2FA staat al aan voor deze gebruiker.
+2024-03-26 09:51:11.679 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:51:13.785 +01:00 [ERR] Gebruiker is uitgelogd
+2024-03-26 09:51:15.743 +01:00 [ERR] 2FA is aangezet voor gebruiker.
+2024-03-26 09:51:19.941 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:51:19.948 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:51:19.965 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:51:23.729 +01:00 [ERR] Gebruiker is uitgelogd
+2024-03-26 09:51:26.733 +01:00 [ERR] 2FA is aangezet voor gebruiker.
+2024-03-26 09:51:36.614 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 09:51:36.624 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:51:36.631 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:51:39.272 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:51:39.279 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:51:39.544 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:51:39.550 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:51:39.794 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:51:39.805 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:51:39.810 +01:00 [ERR] Teams opgehaald.
+2024-03-26 09:51:42.518 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:51:42.527 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:51:42.537 +01:00 [ERR] Teams opgehaald.
+2024-03-26 09:51:42.541 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:51:42.547 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:52:32.177 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:52:32.187 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:52:58.813 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:52:58.836 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:53:50.871 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:53:50.881 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:53:53.537 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:53:53.545 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:53:55.310 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:53:55.323 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:54:11.023 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:11.030 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:54:12.561 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:12.579 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:54:15.995 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:16.003 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:54:25.561 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:25.606 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:54:27.229 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:27.241 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:54:28.932 +01:00 [ERR] Teams opgehaald.
+2024-03-26 09:54:28.933 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:28.948 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:54:34.364 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:34.382 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 09:54:39.583 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:39.590 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:54:39.845 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:39.853 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:54:47.093 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:54:47.101 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:55:05.624 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:55:05.648 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:55:14.997 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:55:15.016 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:55:15.129 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:55:15.139 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:28.240 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:28.251 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:28.351 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:28.356 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:30.082 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:30.104 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:30.224 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:30.240 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:32.168 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:32.174 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:39.565 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:39.585 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:39.700 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:39.705 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:46.815 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:46.822 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 09:56:49.879 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 09:56:49.886 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:00:05.845 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:00:05.879 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:00:07.294 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:00:07.320 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:00:22.191 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:00:22.209 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:02:23.009 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:02:23.018 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:06:58.138 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:06:58.150 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:07:00.964 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:07:00.972 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:07:47.078 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:07:47.091 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:07:48.464 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:07:48.482 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:10:14.686 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:10:14.837 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:11:56.358 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:11:56.500 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:11:57.761 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:11:57.770 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:14:58.867 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:14:59.013 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:14:59.430 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:14:59.436 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:17:57.952 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:17:57.964 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:18:04.659 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:18:04.686 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:18:09.336 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:18:09.357 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:18:09.653 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:18:09.660 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:21:03.651 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:21:03.690 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:21:50.598 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:21:50.625 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:22:07.911 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:22:07.924 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:22:08.481 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:22:08.492 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:22:39.136 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:22:39.146 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:23:16.078 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:23:16.102 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:23:25.380 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:23:25.390 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:23:43.825 +01:00 [INF] Gebruiker is aangemaakt.
+2024-03-26 10:23:50.652 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 10:23:50.670 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:23:50.677 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 10:23:53.702 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:23:53.716 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 10:23:53.728 +01:00 [ERR] Teams opgehaald.
+2024-03-26 10:23:57.602 +01:00 [ERR] Teams opgehaald.
+2024-03-26 10:23:57.667 +01:00 [INF] Gegevens zijn opgeslagen voor jan@jan.com
+2024-03-26 10:23:57.714 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:23:57.721 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:23:57.728 +01:00 [ERR] Teams opgehaald.
+2024-03-26 10:23:57.729 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:23:57.736 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:23:57.745 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:23:57.749 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:24:01.740 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:01.755 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:24:01.861 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:01.867 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:24:08.860 +01:00 [ERR] Gebruiker is verwijderd van het team.
+2024-03-26 10:24:08.873 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:08.884 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:24:11.489 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:11.498 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 10:24:12.956 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:12.959 +01:00 [ERR] Teams opgehaald.
+2024-03-26 10:24:12.965 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 10:24:15.543 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:15.552 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 10:24:17.028 +01:00 [ERR] Teams opgehaald.
+2024-03-26 10:24:17.032 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:17.045 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 10:24:20.104 +01:00 [ERR] Gebruiker is uitgelogd
+2024-03-26 10:24:21.920 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:21.936 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 10:24:22.073 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 10:24:22.085 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 11:24:26.040 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 11:26:12.320 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 11:26:15.703 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 12:47:45.602 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 12:50:45.856 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 12:50:51.531 +01:00 [ERR] 2FA is aangezet voor gebruiker.
+2024-03-26 12:51:04.708 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 12:51:04.763 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:51:04.849 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:51:25.789 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:51:25.804 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:51:38.150 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:51:38.167 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:51:39.842 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 12:51:47.746 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:51:47.774 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:51:48.915 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 12:52:05.581 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:52:05.601 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:52:06.767 +01:00 [INF] Captcha is succesvol gevalideerd
+2024-03-26 12:52:09.008 +01:00 [ERR] Gebruiker is uitgelogd
+2024-03-26 12:52:26.416 +01:00 [INF] Gebruiker is aangemaakt.
+2024-03-26 12:52:35.981 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 12:52:35.990 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:52:35.997 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 12:52:40.072 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:52:40.084 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 12:52:42.738 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:52:42.741 +01:00 [ERR] Teams opgehaald.
+2024-03-26 12:52:42.746 +01:00 [ERR] Speler zit niet in een team.
+2024-03-26 12:52:46.997 +01:00 [ERR] Teams opgehaald.
+2024-03-26 12:52:47.055 +01:00 [INF] Gegevens zijn opgeslagen voor test@test.com
+2024-03-26 12:52:47.271 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:52:47.279 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:52:47.290 +01:00 [ERR] Teams opgehaald.
+2024-03-26 12:52:47.294 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:52:47.299 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:52:47.310 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:52:47.317 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:52:54.581 +01:00 [ERR] Gebruiker is uitgelogd
+2024-03-26 12:52:56.569 +01:00 [ERR] 2FA is aangezet voor gebruiker.
+2024-03-26 12:53:06.908 +01:00 [INF] Gebruiker is ingelogd.
+2024-03-26 12:53:06.918 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:53:06.925 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:53:09.557 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:53:09.566 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:53:11.304 +01:00 [ERR] Gebruiker is verwijderd van het team.
+2024-03-26 12:53:11.317 +01:00 [INF] Informatie van gebruiker is opgevraagd.
+2024-03-26 12:53:11.326 +01:00 [INF] Team gegevens opgevraagd.
+2024-03-26 12:53:29.315 +01:00 [INF] Captcha is succesvol gevalideerd
